@@ -1,6 +1,6 @@
 <h2> Hey there! 👋</h2>
 
-I'm **ms prince**, a programmer from Kerala.  
+I'm I'm [ms prince][], a programmer from Kerala.  
 I build things that I imagine — especially for **SA-MP**, **open.mp**, and custom game launchers.
 
 If an idea hits me, I’ll prototype it, build it, and ship it.
