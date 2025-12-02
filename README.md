@@ -1,34 +1,25 @@
 <h2> Hey there! 👋</h2>
 
 I'm [Jixx](#), a programmer from India.  
-I build things that I imagine — especially for **SA-MP**, **open.mp**, and custom game launchers.
-
-If an idea hits me, I’ll prototype it, build it, and ship it.
 
 My main tech stack includes **C#**, **C++**, **Pawn**, **Lua**, **HTML**, and **JavaScript**.  
 Currently, I’m developing my own game from scratch
 
-I love making tools that make servers or gameplay feel unique.
-
-I've built tons of personal and private scripts for SA-MP — from checkpoint systems to admin tools to advanced UI systems — and I continue experimenting with new concepts every day.
-
-If you want to learn how I build or want help with SA-MP scripts, feel free to reach out!
+If you're interested in how I build things or need help with any of my scripts, feel free to reach out!
 
 ---
 
 ## 🔧 Tech & Tools I Use
 - **Languages:** C#, C++, Pawn, Lua, HTML, JavaScript  
-- **Frameworks / Tools:** .NET, WPF, Tailwind, SA-MP / open.mp scripting  
-- **Interests:** custom launchers, mods, UI systems, automation
+- **Frameworks / Tools:** .NET, WPF  
+- **Game Engines:** Unity, Unreal Engine  
 
 ---
 
-## 🎉 Fun Facts
-- I enjoy building game systems from scratch  
-- I love experimenting with SA-MP internals  
-- I prefer clean UI and clean code  
-- Hobbies: programming, anime, gym, and creating cool features for servers  
-- Demon Slayer is 🔥  
+## 🌟 About Me
+- I enjoy designing and developing game systems from the ground up  
+- I value clean UI design and maintainable code  
+
 
 ---
 
