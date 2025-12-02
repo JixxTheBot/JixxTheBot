@@ -9,14 +9,14 @@ If you're interested in how I build things or need help with any of my scripts, 
 
 ---
 
-## 🔧 Tech & Tools I Use
+### 🔧 Tech & Tools I Use
 - **Languages:** C#, C++, Pawn, Lua, HTML, JavaScript  
 - **Frameworks / Tools:** .NET, WPF  
 - **Game Engines:** Unity, Unreal Engine  
 
 ---
 
-## 🌟 About Me
+### 🌟 About Me
 - I enjoy designing and developing game systems from the ground up  
 - I value clean UI design and maintainable code  
 
