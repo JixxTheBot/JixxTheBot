@@ -19,5 +19,3 @@ If you're interested in how I build things or need help with any of my scripts, 
 - I value clean UI design and maintainable code  
 
 
----
-
