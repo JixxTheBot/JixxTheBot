@@ -7,8 +7,6 @@ Currently, I’m developing my own game from scratch
 
 If you're interested in how I build things or need help with any of my scripts, feel free to reach out!
 
----
-
 ### 🔧 Tech & Tools I Use
 - **Languages:** C#, C++, Pawn, Lua, HTML, JavaScript  
 - **Frameworks / Tools:** .NET, WPF  
