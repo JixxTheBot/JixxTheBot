@@ -1,4 +1,4 @@
-<h2> Hey there! 👋</h2>
+### Hey there!👋
 
 I'm [Jixx](#), a programmer from India.  
 
