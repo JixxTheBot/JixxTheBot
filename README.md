@@ -1,12 +1,12 @@
 <h2> Hey there! 👋</h2>
 
-I'm [ms prince](#), a programmer from Kerala.  
+I'm [Jixx](#), a programmer from India.  
 I build things that I imagine — especially for **SA-MP**, **open.mp**, and custom game launchers.
 
 If an idea hits me, I’ll prototype it, build it, and ship it.
 
 My main tech stack includes **C#**, **C++**, **Pawn**, **Lua**, **HTML**, and **JavaScript**.  
-Recently, I've been working on SA-MP systems such as **stock markets**, **custom HUDs**, **vehicle mechanics**, and **launchers with auto-update systems**.
+Currently, I’m developing my own game from scratch
 
 I love making tools that make servers or gameplay feel unique.
 
